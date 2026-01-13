@@ -12,6 +12,8 @@
 
 5- Security camera for house
 
+6- Capturing Smiling Face
+
 ## Installations
 
 ## Virtual environment to run the packages: <br/>
