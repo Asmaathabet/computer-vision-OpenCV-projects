@@ -119,3 +119,11 @@ D:\2026\Developing\computer_vision\cv_projects\cv_env\Scripts\python.exe
 ```
 
 Restart VS Code
+
+## specific installations for projects:
+
+you should install these packages inside your environment or virtual environment
+
+- Whatsapp automated message
+
+`pip install pywhatkit`
