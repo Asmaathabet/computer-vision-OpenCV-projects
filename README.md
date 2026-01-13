@@ -2,13 +2,15 @@
 
 ## Projects :
 
-1- face detection.
+1- Face Detection.
 
-2- hand gesture volume control.
+2- Hand gesture Volume Control.
 
 3- Send Whatsapp Messages Automatically in Python
 
 4- Transform Your Eyes into a Mouse
+
+5- Security camera for house
 
 ## Installations
 
