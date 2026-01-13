@@ -1,7 +1,11 @@
 import cv2
 # print(cv2.__version__)
 
-face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
+# face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
+face_cascade = cv2.CascadeClassifier(
+    cv2.data.haarcascades + "haarcascade_frontalface_default.xml"
+)
+
 webcam = cv2.VideoCapture(0)
 while True:
     _,img = webcam.read()
